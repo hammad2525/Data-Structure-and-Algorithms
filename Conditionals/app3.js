@@ -8,7 +8,7 @@ switch (number) {
 
             console.log("false");
         
-        break;
+             break;
     
     case 1:
 
@@ -18,5 +18,5 @@ switch (number) {
 
 
     default:
-        break;
+           break;
 }
