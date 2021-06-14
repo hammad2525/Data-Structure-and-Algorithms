@@ -8,17 +8,7 @@ let num2 = 5;
 let sum = num1 + num2;
 
 switch (sum) {
-    case 1:
-
-        console.log('sub of two number is' + sum);
-
-        break;
-
-    case 2:
-
-        console.log('mul of two number is' + sum);
-
-        break;
+    
 
     case sum:
 
@@ -29,5 +19,7 @@ switch (sum) {
 
 
     default:
+
+       console.log('not a valid result');
         break;
 }
