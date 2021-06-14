@@ -20,6 +20,6 @@ switch (sum) {
 
     default:
 
-       console.log('not a valid result');
+       console.log(' result is not valid');
         break;
 }
