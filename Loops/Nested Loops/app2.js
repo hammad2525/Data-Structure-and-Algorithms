@@ -15,7 +15,7 @@ let animals = [
 
 for (let i = 0; i < animals.length; i++) {
 
-    for (let j = 0; j < animals[i].length; j++) {
+    for (let j = 0; j < 2 ; j++) {
 
         if (animals[i][j] == 'cat' && 'rabbit') {
 
